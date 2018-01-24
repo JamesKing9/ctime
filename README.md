@@ -1,5 +1,8 @@
 # ctime
+
 Test the usage of `ctime` function.
 
-> OS: ubuntu 16.4LTS
-> IDE: NetBeans 8.2
+## Environments
+
+OS: ubuntu 16.4 LTS
+IDE: NetBeans 8.2
